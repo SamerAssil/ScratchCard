@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/05/27 15:57:40.000.083,=\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/05/27 17:02:26.000.282,\\Mac\Home\Documents\Embarcadero\Studio\Projects\Project1.dproj=\\Mac\Home\Documents\Embarcadero\Studio\Projects\Demo.dproj</Transaction>
+    <Transaction>2022/05/27 17:02:35.000.600,\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit2.pas=\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/27 17:02:35.000.600,\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit2.fmx=\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2022/05/27 17:03:12.000.704,\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit1.pas=\\Mac\Home\Documents\Development\Components\TULIP\ScratchCard\Demo\Unit1.pas</Transaction>
+    <Transaction>2022/05/27 17:03:12.000.704,\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit1.fmx=\\Mac\Home\Documents\Development\Components\TULIP\ScratchCard\Demo\Unit1.fmx</Transaction>
+    <Transaction>2022/05/27 17:03:17.000.660,\\Mac\Home\Documents\Embarcadero\Studio\Projects\Demo.dproj=\\Mac\Home\Documents\Development\Components\TULIP\ScratchCard\Demo\Demo.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile Android="" Android64=""/>
+	</ActiveMobileDevice>
+</BorlandProject>

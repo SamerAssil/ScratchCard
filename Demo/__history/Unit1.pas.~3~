@@ -1,0 +1,27 @@
+unit Unit1;
+
+interface
+
+uses
+  System.SysUtils, System.Types, System.UITypes, System.Classes, System.Variants, FMX.Layouts,
+  FMX.Types, FMX.Controls, FMX.Forms, FMX.Graphics, FMX.Dialogs, Skia, Skia.FMX, FMX.Objects, ScratchCard;
+
+type
+  TForm1 = class(TForm)
+    ScratchCard1: TScratchCard;
+    Layout1: TLayout;
+  private
+
+  public
+    { Public declarations }
+  end;
+
+var
+  Form1: TForm1;
+
+implementation
+
+{$R *.fmx}
+
+
+end.

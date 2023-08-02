@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/05/27 11:35:54.000.741,=rtl.dcp</Transaction>
+    <Transaction>2022/05/27 11:36:07.000.778,=\\Mac\Home\Documents\Development\Components\TULIP\ScratchCard\ScratchCard.pas</Transaction>
+    <Transaction>2022/05/27 11:36:33.000.588,=fmx.dcp</Transaction>
+    <Transaction>2022/05/27 11:36:51.000.462,\\Mac\Home\Documents\Embarcadero\Studio\Projects\Package1.dproj=\\Mac\Home\Documents\Embarcadero\Studio\Projects\ScratchCardPackage.dproj</Transaction>
+    <Transaction>2022/05/27 11:37:09.000.753,\\Mac\Home\Documents\Embarcadero\Studio\Projects\ScratchCardPackage.dproj=\\Mac\Home\Documents\Development\Components\TULIP\ScratchCard\ScratchCardPackage.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile Android64=""/>
+	</ActiveMobileDevice>
+</BorlandProject>
